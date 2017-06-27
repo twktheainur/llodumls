@@ -1,8 +1,15 @@
 # llodumls
 a LLOD (Lemon-Ontolex) converter for UMLS
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+##Table of Contents
 
+   * [llodumls](#llodumls)
+      * [I. Requirements](#i-requirements)
+         * [I.1. Installing Redis](#i1-installing-redis)
+      * [II. Development](#ii-development)
+         * [II.1. Building](#ii1-building)
+         * [II.2. Creating runnable jar](#ii2-creating-runnable-jar)
+      * [III. Resources](#iii-resources)
 
 ## I. Requirements
 
