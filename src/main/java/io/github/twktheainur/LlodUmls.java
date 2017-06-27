@@ -1,5 +1,12 @@
 package io.github.twktheainur;
 
 
-public class LlodUmls {
+public final class LlodUmls {
+
+    private LlodUmls() {
+    }
+
+    public static void main(final String... args){
+
+    }
 }

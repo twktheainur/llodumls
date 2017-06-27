@@ -1,0 +1,9 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix umls: <http://bioportal.bioontology.org/ontologies/umls/> .
+@prefix icpc2p: <http://purl.bioontology.org/ontology/ICPC2P/> .
+@prefix icd: <http://who.int/icd#> .
+@prefix gold: <http://purl.org/linguistics/gold/> .
+@prefix	omv:  <http://omv.ontoware.org/2005/05/ontology#>
