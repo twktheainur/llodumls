@@ -96,8 +96,8 @@ $ mvn assembly:assembly
 * NIF Paper with examples [Page 8]: http://svn.aksw.org/papers/2013/ISWC_NIF/public.pdf
 * UMLS Format Documentation: https://www.ncbi.nlm.nih.gov/books/NBK9685/
 * Quaero Corpus for Evaluation: https://quaerofrenchmed.limsi.fr
-* *Very* compréhensive slides about UMLS: https://www.nlm.nih.gov/research/umls/pdf/UMLS_Basics.pdf
-* ​
+* *Very* comprehensive slides about UMLS: https://www.nlm.nih.gov/research/umls/pdf/UMLS_Basics.pdf
+* __Mapping between a relational database and RDF__: http://d2rq.org/d2rq-language The R2RQ Language.
 
 
 
