@@ -1,6 +1,7 @@
 # llodumls
 a LLOD (Lemon-Ontolex) converter for UMLS
 
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 
 ## I. Requirements
@@ -78,6 +79,16 @@ $ mvn assembly:assembly
 ```
 
 
+
+## III. Resources
+
+* Ontolex specification:
+  * Core: https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Core
+  * Vartrans: https://www.w3.org/community/ontolex/wiki/Final_Model_Specification#Variation_.26_Translation_.28vartrans.29 
+* NIF Specification: http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core/nif-core.html
+* NIF Paper with examples [Page 8]: http://svn.aksw.org/papers/2013/ISWC_NIF/public.pdf
+* UMLS Format Documentation: https://www.ncbi.nlm.nih.gov/books/NBK9685/
+* Quaero Corpus for Evaluation: https://quaerofrenchmed.limsi.fr
 
 
 
